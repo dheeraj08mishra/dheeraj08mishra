@@ -7,7 +7,7 @@
 - 📈 Exploring investments and finance as part of my personal growth.
 
 ### 🌟 Featured Projects
-- [Countries Info](https://github.com/dheeraj08mishra/countries_info): A React-based app displaying country details with search, sort, and filter features.
+- [Countries Info](https://github.com/dheeraj08mishra/countries_info)  [Live Preview](https://countries-info-two.vercel.app/): A React-based app displaying country details with search, sort, and filter features.
 - [Basic JavaScript Projects](https://github.com/dheeraj08mishra/full-stack/tree/main/Javascript/Basic%20Project): Hands-on basic and medium-level JavaScript projects.
 
 ### 📫 Let's Connect!
