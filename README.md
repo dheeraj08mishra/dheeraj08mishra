@@ -1,6 +1,6 @@
 # 🚀 Dheeraj Mishra's Project Portfolio
 
-Welcome! I’m Dheeraj, a passionate developer who loves solving real-world problems, building beautiful UIs, and tackling tough coding challenges. Explore my highlighted projects below to see the problems I solved, the cool features, and the practical value each app brings.
+Welcome! I’m Dheeraj, a passionate developer who loves solving real-world problems, building UIs, and tackling tough coding challenges. Explore my highlighted projects below to see the problems I solved, the cool features, and the practical value each app brings.
 
 ---
 
