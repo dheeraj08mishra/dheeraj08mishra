@@ -4,9 +4,12 @@ Welcome! I’m Dheeraj, a passionate developer who loves solving real-world prob
 
 ---
 
-## 💰 [Personal Finance Tracker](https://github.com/dheeraj08mishra/finance_tracker)
+## 💰 [ BudgetWise – Personal Finance Tracker ](https://github.com/dheeraj08mishra/finance_tracker)
 
-A modern, responsive web app to help you take control of your finances.  
+- BudgetWise is a comprehensive full-stack MERN web application that empowers users to efficiently manage their income, expenses, and budgets with clear, actionable insights.  
+- The platform features an intuitive dashboard for seamlessly adding, editing, and visualizing both expenses and incomes.  
+- Designed to be responsive and user-friendly, BudgetWise helps users gain a deeper understanding of their financial activity. With powerful tools for categorizing spending, visualizing financial trends, and making smarter money decisions, BudgetWise makes personal finance management simple and effective.
+
 **Real-life Problem:** Many people struggle to track daily expenses and stick to budgets.  
 **How I solved it:**  
 - Built an intuitive dashboard for adding, editing, and visualizing expenses and incomes.
@@ -14,17 +17,23 @@ A modern, responsive web app to help you take control of your finances.
 - Designed category-wise pie charts and budget tracking for actionable insights.
 
 **Points Overcome:**
-- Seamless real-time sync using Firestore and Redux.
+- Seamless real-time sync using express mongo and Redux.
 - Ensuring cross-device responsiveness with Tailwind CSS.
 - Secure, robust form validation.
 
 **Key Features:**
-- 🔒 Login & Auth (Firebase)
-- ➕ Add/Edit/Delete Transactions
-- 📊 Live balance & category breakdowns
-- 🎯 Budget planning & tracking
-- 📱 Fully responsive UI  
-**Try it live:** [finance-tracker-ui.web.app](https://finance-tracker-ui.web.app/)
+- ✅ **Transaction Management:** Add, edit, and delete transactions with robust validation.
+- ✅ **Real-time Balance Summary:** Instant updates on your financial status at a glance.
+- ✅ **Income vs. Expense Breakdown:** Clear visualization of your earnings and spendings.
+- ✅ **Category-wise Pie Chart:** Understand your spending patterns across different categories.
+- ✅ **Budget Tracker Section:** Set and monitor budgets for every category.
+- ✅ **Day-wise Trends:** Visualize daily spending habits using a line chart.
+- ✅ **Recent Transactions & Full History:** See your last 10 transactions on the dashboard, and easily access your complete, sortable, filterable, and paginated history. 
+- ✅ **Search & Filter:** Quickly find transactions by description, category, or date.
+- ✅ **User Profile Management:** Update your personal details and manage your account.
+- ✅ **Responsive UI:** Seamless experience on mobile, tablet, and desktop.
+- ✅ **Secure Authentication:** JWT-based login and session management.
+**Try it live:** [https://www.budgetwiseapp.in/](https://www.budgetwiseapp.in/)
 
 ---
 
